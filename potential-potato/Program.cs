@@ -12,6 +12,8 @@ namespace potential_potato
         {
             Console.WriteLine("I say potato you say potato");
 
+            Console.WriteLine("This will require new documentation!");
+
             Console.ReadLine();
         }
     }
