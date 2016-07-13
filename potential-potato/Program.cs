@@ -14,6 +14,8 @@ namespace potential_potato
 
             Console.WriteLine("This will require new documentation!");
 
+            Console.WriteLine();
+
             Console.ReadLine();
         }
     }
